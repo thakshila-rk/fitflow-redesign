@@ -21,7 +21,7 @@ git remote add origin https://github.com/YOUR_USERNAME/fitflow-redesign.git
 git push -u origin main
 ```
 
-3. Replace `YOUR_USERNAME` in the URL and the report. Configure repository Settings > Rules > Rulesets (or branch protection) for `main` as appropriate; require a pull request and checks once checks are configured.
+3. Replace `thakshila-rk` in the URL and the report. Configure repository Settings > Rules > Rulesets (or branch protection) for `main` as appropriate; require a pull request and checks once checks are configured.
 4. Check the CourseWeb case study for requirements absent from the lab sheet before submission.
 
 ## Proposed stack

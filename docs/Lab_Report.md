@@ -1,8 +1,8 @@
 # IT3060 Human Computer Interaction - Lab Exercise 05
 ## FitFlow redesign technology selection and architecture
 
-**Student:** [Your name / ID]  
-**Repository:** `https://github.com/YOUR_USERNAME/fitflow-redesign` (replace after publishing)  
+**Student:** [R.T.D.Rukunayaka / IT23823020]  
+**Repository:** `https://github.com/thakshila-rk/fitflow-redesign` (replace after publishing)  
 **Date:** 28 September 2026
 
 ### Scope and assumptions
