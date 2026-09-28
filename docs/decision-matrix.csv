@@ -1,0 +1,10 @@
+Criterion,Weight (%),A Flutter/NestJS/Postgres/Supabase,B React Native/NestJS/Firestore/Firebase,C KMP/Go/DynamoDB/Cognito
+Performance,15,4,4,5
+Scalability,15,4,4,5
+Development speed,15,5,5,2
+Security/control,20,4,4,4
+Cost predictability,10,4,3,3
+AI/ML integration,10,5,4,3
+Maintainability,10,5,4,3
+iOS/Android/web fit,5,5,3,2
+Weighted score /100,,88,80,72

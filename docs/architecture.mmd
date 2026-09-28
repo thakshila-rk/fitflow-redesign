@@ -1,0 +1,10 @@
+flowchart TB
+  U["iOS / Android / Web users"] --> F["Flutter clients"]
+  F --> A["Supabase Auth"]
+  F -->|"TLS REST and WebSocket"| N["NestJS API and gateway"]
+  N -->|"validate identity and permissions"| A
+  N --> D[("PostgreSQL: private and social data")]
+  N --> R[("Redis: cache and pub/sub")]
+  N -->|"minimal consented inputs"| P["FastAPI AI service"]
+  P -->|"plan suggestion"| N
+  N -->|"authorized updates"| F
